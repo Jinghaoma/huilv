@@ -8,3 +8,5 @@ def return_next_day(t_str="20150101"):
     d1 = d + delta
     return d1.strftime('%Y%m%d')
 
+
+return_next_day("20150102")
