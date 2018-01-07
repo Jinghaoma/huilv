@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="AWS">
+  <component name="PublishConfigData" serverName="AWS" uploadOnCheckin="ccf2957f-fca7-480c-a679-31379ab1dcd5">
     <serverData>
       <paths name="AWS">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="AWS" />
   </component>
 </project>
