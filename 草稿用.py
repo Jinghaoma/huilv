@@ -9,4 +9,5 @@ def return_next_day(t_str="20150101"):
     return d1.strftime('%Y%m%d')
 
 
+123
 return_next_day("20150102")
